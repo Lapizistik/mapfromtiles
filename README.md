@@ -11,6 +11,10 @@ Always comply to their policy (see e.g. the [OSM Tile Usage Policy](https://oper
 You should also give some identifier (your webpage or email-address) where the
 provider could contact you, otherwise you may get banned.
 
+## Caveat ##
+
+The script currently does not deal with the 180°/-180° overlap (TODO)
+
 ## Usage ##
 
 TODO
